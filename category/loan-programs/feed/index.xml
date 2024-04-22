@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Loan Programs - 4Ever Lending USA</title>
-	<atom:link href="/test-site//category/loan-programs/feed/" rel="self" type="application/rss+xml" />
-	<link>/test-site//</link>
+	<atom:link href="/test-site/category/loan-programs/feed/" rel="self" type="application/rss+xml" />
+	<link>/test-site/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Apr 2024 14:02:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
-	<url>/test-site//wp-content/uploads/2024/04/favicon-150x150.png</url>
+	<url>/test-site/wp-content/uploads/2024/04/favicon-150x150.png</url>
 	<title>Loan Programs - 4Ever Lending USA</title>
-	<link>/test-site//</link>
+	<link>/test-site/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Portfolio Loan</title>
-		<link>/test-site//portfolio-loan/</link>
+		<link>/test-site/portfolio-loan/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Wed, 10 Apr 2024 14:02:56 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=122</guid>
+		<guid isPermaLink="false">/test-site/?page_id=122</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -44,12 +44,12 @@
 			</item>
 		<item>
 		<title>Bridge Loan</title>
-		<link>/test-site//bridge-loan/</link>
+		<link>/test-site/bridge-loan/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Wed, 10 Apr 2024 14:02:29 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=120</guid>
+		<guid isPermaLink="false">/test-site/?page_id=120</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -59,12 +59,12 @@
 			</item>
 		<item>
 		<title>Blanket</title>
-		<link>/test-site//blanket/</link>
+		<link>/test-site/blanket/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Wed, 10 Apr 2024 14:02:13 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=118</guid>
+		<guid isPermaLink="false">/test-site/?page_id=118</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -74,12 +74,12 @@
 			</item>
 		<item>
 		<title>Construction</title>
-		<link>/test-site//construction/</link>
+		<link>/test-site/construction/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Wed, 10 Apr 2024 14:02:01 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=116</guid>
+		<guid isPermaLink="false">/test-site/?page_id=116</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -89,12 +89,12 @@
 			</item>
 		<item>
 		<title>Asset Depletion</title>
-		<link>/test-site//asset-depletion/</link>
+		<link>/test-site/asset-depletion/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Wed, 10 Apr 2024 14:01:46 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=114</guid>
+		<guid isPermaLink="false">/test-site/?page_id=114</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -104,12 +104,12 @@
 			</item>
 		<item>
 		<title>Loan Program - USDA</title>
-		<link>/test-site//loan-program-usda/</link>
+		<link>/test-site/loan-program-usda/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Sat, 06 Apr 2024 03:43:46 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=29</guid>
+		<guid isPermaLink="false">/test-site/?page_id=29</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -119,12 +119,12 @@
 			</item>
 		<item>
 		<title>Loan Program - VA</title>
-		<link>/test-site//loan-program-va/</link>
+		<link>/test-site/loan-program-va/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Sat, 06 Apr 2024 03:43:31 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=27</guid>
+		<guid isPermaLink="false">/test-site/?page_id=27</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -134,12 +134,12 @@
 			</item>
 		<item>
 		<title>Loan Program - Jumbo</title>
-		<link>/test-site//loan-program-jumbo/</link>
+		<link>/test-site/loan-program-jumbo/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Sat, 06 Apr 2024 03:43:15 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=25</guid>
+		<guid isPermaLink="false">/test-site/?page_id=25</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -149,12 +149,12 @@
 			</item>
 		<item>
 		<title>Loan Program - FHA</title>
-		<link>/test-site//loan-program-fha/</link>
+		<link>/test-site/loan-program-fha/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Sat, 06 Apr 2024 03:42:56 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=23</guid>
+		<guid isPermaLink="false">/test-site/?page_id=23</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -164,12 +164,12 @@
 			</item>
 		<item>
 		<title>Loan Program - Conventional</title>
-		<link>/test-site//loan-program-conventional/</link>
+		<link>/test-site/loan-program-conventional/</link>
 		
 		<dc:creator><![CDATA[Luminr]]></dc:creator>
 		<pubDate>Sat, 06 Apr 2024 03:42:38 +0000</pubDate>
 				<category><![CDATA[Loan Programs]]></category>
-		<guid isPermaLink="false">/test-site//?page_id=21</guid>
+		<guid isPermaLink="false">/test-site/?page_id=21</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
